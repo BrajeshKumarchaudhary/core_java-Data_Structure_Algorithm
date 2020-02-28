@@ -15,7 +15,7 @@ public class CountA {
 		    	
 		    }
 		    
-				    long result=q*count;
+	        long result=q*count;
 		    long r=n%na;
 		    for(int i=0;i<r;i++)
 		    {

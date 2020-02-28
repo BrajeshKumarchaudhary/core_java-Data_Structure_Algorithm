@@ -6,7 +6,7 @@ import java.io.FileReader;
 public class Feature7 {
   /*
    * Java 7 following feature
-   * String class support in switch statement
+   * String class support String in switch statement
    * Binary Literals with prefix “0b”
    * Catch Multiple Exceptions in catch block --->catch (FirstException | SecondException ex)
    * Automatic resource management with try-with-resources
