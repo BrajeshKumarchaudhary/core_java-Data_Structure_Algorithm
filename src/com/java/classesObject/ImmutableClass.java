@@ -40,7 +40,8 @@ public final  class ImmutableClass {
 			*No setters(To not have the option to change the value of the instance variable)
 			*/
 		
-		
+		ImmutableClass object=new ImmutableClass(1, "brajesh");
+		System.out.print(object);
 		
 		
 	}

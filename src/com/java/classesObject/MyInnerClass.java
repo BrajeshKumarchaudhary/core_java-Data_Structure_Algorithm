@@ -4,9 +4,22 @@ import java.util.Arrays;
 
 public class MyInnerClass {
 
+   class Demo
+   {
+	   Demo()
+	   {
+		   System.out.println("Inner class object invoked");
+	   }
+	   public  void check()
+	   {
+		   System.out.println("called");
+	   }
+   }
+	
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-    System.out.print(Arrays.asList(args));
+         new MyInnerClass(). new Demo().check();
 	}
 
 }
