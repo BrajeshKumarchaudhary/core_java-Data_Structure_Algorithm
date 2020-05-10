@@ -16,8 +16,19 @@ public class Feature7 {
    * Underscores in numeric literals int one_million = 1_000_000;
    * <> diamond operator
    */
+	private static  int binary=0b1000; //8
 	public static void String_switch( String token)
 	{
+		
+		if(binary==8)
+		{
+			System.out.println(true);
+		}
+		else
+		{
+			System.out.println(false);
+		}
+		try {
 		switch(token)
 		{
 		case("one"):
@@ -33,25 +44,19 @@ public class Feature7 {
 			break;
 		}
 		}
+		catch(ArithmeticException ex)
+		{
+			System.out.println(ex.getLocalizedMessage());
+		}
+		catch(Exception aex)
+		{
+			System.out.println(aex.getMessage());
+		}
+		
+		}
 	/*
 	 *Try-with-resources statement 	
 	 */
-		public strictfp String f2()
-		{
-			//before
-//			String path="";
-//			BufferedReader br = new BufferedReader(new FileReader(path));
-//			try {
-//			   return br.readLine();
-//			} finally {
-//			   br.close();
-//			}
-			//now
-			try (BufferedReader br = new BufferedReader(new FileReader(path))) {
-				   return br.readLine();
-				}			
-			
-		}
 	
 	
 	
@@ -60,7 +65,7 @@ public class Feature7 {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		String_switch("one");
 	}
 
 }
