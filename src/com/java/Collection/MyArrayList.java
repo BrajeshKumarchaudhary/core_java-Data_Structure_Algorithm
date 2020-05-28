@@ -2,19 +2,37 @@ package com.java.Collection;
 
 import java.math.BigInteger;
 import java.util.ArrayList;
-
+import java.util.Iterator;
+/*
+ * In this program we are making list of Student having id,name,address,phone.
+ */
 public class MyArrayList {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//creating a List of type Student
 		ArrayList<Student> st=new ArrayList<>();
-		st.add(new Student(1, "Brajesh kumar","kanpur", new BigInteger("9956230356")));
-       System.out.print(st);		
+		//Adding Student to list
+		st.add(new Student(1, "Brajesh kumar","kanpur", new BigInteger("9956239356")));
+       		
 	}
 
+/*
+ * Traversing of ArrayList
+ */
+public static void printList(ArrayList<Student> list) {
+      //Using Lamda function
+	   list.forEach(st->System.out.println(st));
+	  // Using Java8 Stream
+	   list.stream().forEach(st->System.out.println(st));
+	   //Using Iterator
+	   Iterator<Student> it=list.iterator();
+	   while(it.hasNext())
+	   {
+		   System.out.println(it.next());
+	   }
 }
 
-
+}
 class Student
 {
 	int id;
