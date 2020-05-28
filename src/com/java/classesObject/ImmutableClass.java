@@ -42,8 +42,6 @@ public final  class ImmutableClass {
 		
 		ImmutableClass object=new ImmutableClass(1, "brajesh");
 		System.out.print(object);
-		
-		
 	}
 
 }
