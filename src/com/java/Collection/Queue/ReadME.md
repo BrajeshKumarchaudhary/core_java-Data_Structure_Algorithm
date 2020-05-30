@@ -32,3 +32,90 @@
 
 ---
 
+## java.util.concurrent.ConcurrentLinkedQueue
+
+```text
+      /*The ConcurrentLinkedQueue class in Java is a part of the Java Collection Framework
+       *and implements the Collection interface and the AbstractCollection class
+       * It is used to implement Queue with the help of LinkedList concurrently.
+       */
+      /*
+       * Constructors in Java ConcurrentLinkedQueue:
+       * a.ConcurrentLinkedQueue():create and empty queue.
+       * b.ConcurrentLinkedQueue(Collection<E> c): create a queue with given collection elements
+       */
+       methods Summary
+       *a.add(E e):add the elements in end of queue.
+       *b.addAll(Collection c):appends the all elements end of queue.
+       *c.boolean contains():this methods return true if specified elements contains in queue.
+       *d.boolean isEmpty():This method returns true if queue is empty.
+       *e.offer(E e):add the elements end of queue.
+       *E peek():this methods retrieve ,but does not remove the head of elements
+       *E poll():this method retrieve.and remove the head of queue.
+       *int size():return number of elements.
+       *Object toArray():return an array containing all elements.
+
+```
+---
+
+
+## java.util.concurrent.LinkedBlockingQueue
+```text
+  /*LinkedBlockingQueue is an optionally-bounded blocking queue based on linked nodes.
+   *It means that the LinkedBlockingQueue can be bounded, if its capacity is given, else the LinkedBlockingQueue will be unbounded
+   *The capacity can be given as a parameter to the constructor of LinkedBlockingQueue.
+   *The capacity, if unspecified, is equal to Integer.MAX_VALUE. 
+   *Linked nodes are dynamically created upon each insertion, till the capacity of the queue is not filled.
+   */
+   //Constructor summary
+   //a.LinkedBlockingQueue()
+   //LinkedBlockingQueue<Integer> lbq=new LinkedBlockingQueue<>();
+   //b.LinkedBlockingQueue(Collection c)
+   //LinkedBlockingQueue<Integer> lbq1=new LinkedBlockingQueue<>(lbq);
+   //c.LinkedBlockingQueue(int initialCapacity)
+   //LinkedBlockingQueue<Integer> lbq2=new LinkedBlockingQueue<>();
+  
+ //method summary
+   *a.void clear():remove all the elements
+   *b.boolean contains():return true if specified value exists in queue
+   *c.E peek():retrieve value and not remove the head of queue.
+   *d.E poll():retrieves and reomve head of the queue
+   *e.E take(): Retrieves and removes the head of this queue, waiting if necessary until an element becomes available.
+   */
+
+```
+
+
+---
+
+## java.util.concurrent.LinkedTransferQueue
+
+```text
+     /*The LinkedTransferQueue class in Java is a part of the Java Collection Framework
+      * and implements the Collection interface and the AbstractQueue class
+      * It also implements the TransferQueue and provides an unbounded functionality based on linked nodes. 
+      */
+      //Constructors in Java LinkedTransferQueue:
+      //a.LinkedTransferQueue():
+     *LinkedTransferQueue<Integer> ltq=new LinkedTransferQueue<>();
+     //b.LinkedTransferQueue(Collection<E> c):
+     *LinkedTransferQueue<Integer> ltq1=new LinkedTransferQueue<>(ltq);
+
+```
+---
+
+## java.util.concurrent.PriorityBlockingQueue
+
+```text
+//PriorityBlockingQueue is an unbounded blocking queue that uses the same ordering rules as class PriorityQueue and supplies blocking retrieval operations.
+//Constructor summary
+//a.PriorityBlockingQueue()
+PriorityBlockingQueue<Integer> pbq=new PriorityBlockingQueue<>();
+//b.PriorityBlockingQueue(Collection c)
+PriorityBlockingQueue<Integer> lbq1=new PriorityBlockingQueue<>(pbq);
+//c.PriorityBlockingQueue(int initialCapacity)
+PriorityBlockingQueue<Integer> pbq1=new PriorityBlockingQueue<>(100);
+//d.PriorityBlockingQueue(int initialCapacity, Comparator comparator)
+PriorityBlockingQueue<Integer> lbq2=new PriorityBlockingQueue<>(100, Comparator.reverseOrder());
+
+```
