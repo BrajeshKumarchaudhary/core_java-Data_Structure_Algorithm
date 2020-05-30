@@ -11,3 +11,5 @@
           3. [LinkedBlockingQueue](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/Collection/Queue/LinkedBlockingqueue.java)
           4. [LinkedTransferQueue](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/Collection/Queue/LinkedTransferqueue.java)
           5. [PriorityBlockingQueue](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/Collection/Queue/PriorityBlockingqueue.java)
+    3.[Deque]()
+          1. []()
