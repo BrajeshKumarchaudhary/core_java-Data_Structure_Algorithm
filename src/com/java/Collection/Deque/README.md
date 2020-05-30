@@ -72,7 +72,7 @@
 
 ---
 
-## 
+## java.util.concurrent.LinkedBlockingDeque
 
 ```text
    /*
