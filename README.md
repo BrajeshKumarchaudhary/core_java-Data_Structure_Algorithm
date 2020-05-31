@@ -23,7 +23,7 @@
 
     5. [Vector](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/java/Collection/Vector)
     6. [Stack](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/java/Collection/Stack)
-    7. [HashTable]()
+    7. [HashTable](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/java/Collection/Hashtable)
     8. [Map]()
 
 
