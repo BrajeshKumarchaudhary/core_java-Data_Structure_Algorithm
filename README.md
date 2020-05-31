@@ -15,3 +15,14 @@
           1. [ArrayDeque](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/Collection/Deque/Arraydequeue.java)
           2. [ConcurrentLinkedDeque](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/Collection/Deque/ConcurrentLinkedDdeque.java)
           3. [LinkedBlockingDeque](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/Collection/Deque/LinkedBlockingdequeue.java)
+    4. [Set]()
+          1. [EnumSet]()
+          2. [HashSet]()
+          3. [TreeSet]()
+          4. [LinkedHashSet]()
+
+    5. [Vector]()
+    6. [Stack]()
+    7. [Map]()
+
+
