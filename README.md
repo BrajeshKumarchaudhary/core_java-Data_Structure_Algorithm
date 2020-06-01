@@ -25,5 +25,9 @@
     6. [Stack](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/java/Collection/Stack)
     7. [HashTable](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/java/Collection/Hashtable)
     8. [Map]()
+        1. [HashMap]()
+        2. [TreeMap]()
+        3. [LinkedHashMap]() 
+        4. [HashMap_LinkedHashMap_TreeMap]()
 
 
