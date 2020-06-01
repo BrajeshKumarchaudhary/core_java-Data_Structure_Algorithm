@@ -1,5 +1,5 @@
-package com.singleton;
-  import com.singleton.*;
+package com.designpattern.Singlton;
+
 public class Singleton {
 
 	public static void main(String[] args) {

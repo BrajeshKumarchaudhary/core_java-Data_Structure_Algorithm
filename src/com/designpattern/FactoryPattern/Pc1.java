@@ -1,4 +1,4 @@
-package com.designpattern.factory;
+package com.designpattern.FactoryPattern;
 
 public class Pc1 implements Computer{
 

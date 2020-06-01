@@ -1,4 +1,4 @@
-package com.java.ds;
+package com.datastructure;
 
 public class Bst {
 
