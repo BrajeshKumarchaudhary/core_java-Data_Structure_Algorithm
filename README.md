@@ -31,11 +31,11 @@
         4. [HashMap_LinkedHashMap_TreeMap](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/Collection/Map/HashMap_LinkedHash_TreeMap_HashTable.java)
 
 
-2. [OOP concepts]
-        1. [Classes and Objects]() 
-        2. [Encapsulation]()
-        3. [Inheritance]()
-        4. [Abstraction]()
-        5. [Polymorphism]()
+2. [OOP concepts](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/java/oops)
+   1. [Classes and Objects](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/oops/ClassAndObjects.java) 
+   2. [Encapsulation](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/oops/Encapsulation.java)
+   3. [Inheritance](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/oops/Inheritance.java)
+   4. [Abstraction](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/oops/Abstraction.java)
+   5. [Polymorphism](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/oops/Polymorphism.java)
 
 
