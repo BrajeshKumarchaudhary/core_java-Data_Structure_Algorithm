@@ -2,6 +2,7 @@ package com.java.java7;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.IOException;
 
 public class Feature7 {
   /*
@@ -44,7 +45,7 @@ public class Feature7 {
 			break;
 		}
 		}
-		catch(ArithmeticException ex)
+		catch(ArithmeticException |StringIndexOutOfBoundsException ex)
 		{
 			System.out.println(ex.getLocalizedMessage());
 		}
@@ -57,12 +58,35 @@ public class Feature7 {
 	/*
 	 *Try-with-resources statement 	
 	 */
-	
-	
-	
-	
-	
-	
+	//Syntax
+	/*
+	 *static String readFirstLineFromFile(String path) throws IOException
+    {
+    try (BufferedReader br = new BufferedReader(new FileReader(path)))
+    {
+        return br.readLine();
+    }
+}
+	 */
+	public static String readFile()
+	{
+		String str="plainFile/Text.txt";
+		StringBuilder result=null;
+		try (BufferedReader b = new BufferedReader(new FileReader(str))) 
+        { 
+            String s; 
+            while ((s = b.readLine()) != null)  
+            { 
+            	result=result.append(s);
+                System.out.println(s); 
+            } 
+        }  
+        catch (IOException e)  
+        { 
+            e.printStackTrace(); 
+        }
+		return result.toString();
+	}	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String_switch("one");

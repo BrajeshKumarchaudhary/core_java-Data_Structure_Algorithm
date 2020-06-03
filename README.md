@@ -38,4 +38,11 @@
    4. [Abstraction](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/oops/Abstraction.java)
    5. [Polymorphism](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/oops/Polymorphism.java)
 
+3. [JAVA 7 Feature]()
+4. [JAVA 8 Feature]()
+5. [JAVA 9 Feature]()
+6. [Keywords in java]()
+7. [Type Casting in java]()
+8. [Multithreading]()
+        1.[Life Cycle of thread]() 
 
