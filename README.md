@@ -54,4 +54,12 @@
    4. [StringTokenizer](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/String/StringTokenizerClass.java)
    5. [String vs StringBuilder vs StringBuffer](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/String/String_StringBuffer_StringBuilder.java)
 
+---
+
+
+### DataStructure
+1. [Data Structure](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure)
+2. [Algorithm](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/algorithm)
+
+
 
