@@ -57,8 +57,12 @@
 ---
 
 
-### DataStructure
-1. [Data Structure](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure)
+## DataStructure
+ [Data Structure](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure)
+
+---
+
+## Algorithm
 2. [Algorithm](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/algorithm)
 
 
