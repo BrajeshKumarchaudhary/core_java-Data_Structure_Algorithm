@@ -1,4 +1,4 @@
-package com.datastructure;
+package com.datastructure.Graph;
 
 import java.util.Scanner;
 

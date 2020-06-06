@@ -1,4 +1,4 @@
-package com.datastructure;
+package com.datastructure.Tree;
 
 import java.util.Queue;
 
