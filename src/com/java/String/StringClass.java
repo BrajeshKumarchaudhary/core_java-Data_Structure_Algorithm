@@ -36,10 +36,10 @@ public class StringClass {
 		 * then JVM does not create another object.it simply create another reference of  s15 and copies the reference number of str14 to str15.
 		 * So Both String having same hashCode value.
 		 */
-		  //after concatenation
+		String str15="Brajesh";
+		//after concatenation
 		  concate(str14);//not change String due to property Immutable
 		  System.out.println(str14);
-		String str15="Brajesh";
 		System.out.println(str14.hashCode()+"-----"+str15.hashCode());
 		String str="Hello";
 		/*

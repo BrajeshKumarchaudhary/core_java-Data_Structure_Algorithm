@@ -16,12 +16,12 @@
        *then JVM does not create another object.it simply create another reference of  s15 and copies the reference number of str14 to str15.
        *So Both String having same hashCode value.
        */
-    //after concatenation
-      concate(str14);//not change String due to property Immutable
-		  System.out.println(str14);
-		String str15="Brajesh";
-		System.out.println(str14.hashCode()+"-----"+str15.hashCode());
-		String str="Hello";
+	     String str15="Brajesh";
+       //after concatenation
+       concate(str14);//not change String due to property Immutable
+       System.out.println(str14);
+	     System.out.println(str14.hashCode()+"-----"+str15.hashCode());
+	     String str="Hello";
      /*
       *What Happened with this below statement
       *new operator is used to create the string object.In this case JVM always create new object with diffrenet hashCode.
