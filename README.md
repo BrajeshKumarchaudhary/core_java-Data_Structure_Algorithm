@@ -64,21 +64,20 @@
 
 ## Algorithms
  [Algorithm](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/algorithm)
-   1. [Recursion]() 
+   1. [Recursion](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/algorithm/Recursion) 
 
 ---
 
 ## Problems
-```text
-1. [Factorial of number]()
-2. [Count No. of Digits in Factorial]()
-3. [Program for Fibonacci numbers ]()
 
-```
+1. [Factorial of number](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/algorithm/Recursion/Factorial.java)
+2. [Count No. of Digits in Factorial](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/algorithm/Recursion/DigitsInFactorial.java)
+3. [Program for Fibonacci numbers ](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/algorithm/Recursion/FibonacciSeries.java)
+
 4. [String]()
-```text
-        1. [Reverse Given String using Recursion]() 
-        2. [print all combination can be formed replacing wild card symbol]
-```       
+
+        1. [Reverse Given String using Recursion](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/String/Problems/ReverseStringUsingRecursion.java) 
+        2. [print all combination can be formed replacing wild card symbol](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/String/Problems/PrintAllStringCombination.java)
+      
 
 
