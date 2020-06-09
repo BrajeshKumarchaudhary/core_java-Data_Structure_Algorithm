@@ -59,12 +59,16 @@
 
 ## DataStructures
  [Data Structure](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure)
+   1. [Arrays]() 
 
 ---
 
 ## Algorithms
  [Algorithm](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/algorithm)
    1. [Recursion](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/algorithm/Recursion) 
+   2. [Seaching Algo]()
+        1. [Linear Search]()
+        2. [Binary Search]() 
 
 ---
 
