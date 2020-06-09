@@ -74,10 +74,10 @@
 2. [Count No. of Digits in Factorial](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/algorithm/Recursion/DigitsInFactorial.java)
 3. [Program for Fibonacci numbers ](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/algorithm/Recursion/FibonacciSeries.java)
 
-4. [String]()
+4. [String](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/java/String)
 
-        1. [Reverse Given String using Recursion](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/String/Problems/ReverseStringUsingRecursion.java) 
-        2. [print all combination can be formed replacing wild card symbol](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/String/Problems/PrintAllStringCombination.java)
+       1. [Reverse Given String using Recursion](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/String/Problems/ReverseStringUsingRecursion.java) 
+       2. [print all combination can be formed replacing wild card symbol](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/String/Problems/PrintAllStringCombination.java)
       
 
 
