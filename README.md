@@ -64,8 +64,21 @@
 
 ## Algorithms
  [Algorithm](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/algorithm)
+   1. [Recursion]() 
 
 ---
 
+## Problems
+```text
+1. [Factorial of number]()
+2. [Count No. of Digits in Factorial]()
+3. [Program for Fibonacci numbers ]()
+
+```
+4. [String]()
+```text
+        1. [Reverse Given String using Recursion]() 
+        2. [print all combination can be formed replacing wild card symbol]
+```       
 
 
