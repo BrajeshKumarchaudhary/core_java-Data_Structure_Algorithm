@@ -60,6 +60,9 @@
 ## DataStructures
  [Data Structure](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure)
    1. [Arrays](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure/Arrays) 
+        1. [One Dimensional array]()
+        2. [Multidimensional Array]()
+        3. [Jagged Array]() 
 
 ---
 
