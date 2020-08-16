@@ -7,7 +7,12 @@ import java.util.Comparator;
 import java.util.List;
 
 public class LamdaExpression {
-
+    /*
+     * The Expression through which we can represent an Anynoymous function.
+     * Anynonymous:Nameless/Unknown.
+     * Syntax.   Parameter    Expression      Body
+     *            ()             ->           {}
+     */
 	public static void main(String[] args) {
 		List<String> names=Arrays.asList("Brajesh","Ankit","Maneesh","Dheeraj","Govind");
   		methodSort1(names);
