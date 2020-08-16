@@ -63,8 +63,8 @@
         1. [One Dimensional array](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/datastructure/Arrays/ArraysInJava.java)
         2. [Multidimensional Array](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/datastructure/Arrays/MultiDimensionalArray.java)
         3. [Jagged Array](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/datastructure/Arrays/JaggedArray.java	) 
- 2. [LinkedList]()
-        1. [SingleLinkedList]()
+   2. [LinkedList](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure/LinkedList)
+        1. [SingleLinkedList](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/datastructure/LinkedList/SingleLinkedList.java)
 
 
 
