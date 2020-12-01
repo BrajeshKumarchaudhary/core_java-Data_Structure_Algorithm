@@ -84,6 +84,17 @@
 
 ---
 
+
+## Design Pattern
+ [Design Pattern](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/designpattern)
+
+
+
+## SOLID Principles
+[SOLID Principles](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/oo_principle)
+
+---
+
 ## Problems
 
 1. [Factorial of number](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/algorithm/Recursion/Factorial.java)
@@ -94,5 +105,8 @@
    1. [Reverse Given String using Recursion](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/String/Problems/ReverseStringUsingRecursion.java) 
    2. [print all combination can be formed replacing wild card symbol](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/java/String/Problems/PrintAllStringCombination.java)
       
+
+
+
 
 
