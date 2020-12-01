@@ -12,7 +12,8 @@ public class HashTable {
       /*
        * it is similar to HashMap, but is synchronised.
        * Hashtable stores key/value pair in hash table.
-       * In Hashtable we specify an object that is used as a key, and the value we want to associate to that key. The key is then hashed, and the resulting hash code is used as the index at which the value is stored within the table.
+       * In Hashtable we specify an object that is used as a key, and the value we want to associate to that key. 
+       * The key is then hashed, and the resulting hash code is used as the index at which the value is stored within the table.
        */
 		//Constructor
 		//a.Hashtable(): This is the default constructor.

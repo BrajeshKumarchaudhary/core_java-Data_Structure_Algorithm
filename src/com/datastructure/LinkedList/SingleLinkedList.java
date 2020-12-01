@@ -153,5 +153,51 @@ public class SingleLinkedList {
 		setSize(getSize()+1);
 	}
 
+	public SingleNode insertAtFirstPos(SingleLinkedList head, int value) {
+		SingleNode node = new SingleNode();
+		node.setData(value);
+		if (head == null) {
+			node.setNext(null);
+			return node;
+		} else {
+			node.setNext(head.getHead());
+			return node;
+		}
+	}
+
+	public SingleNode insertAtLastPos(SingleLinkedList head, int value) {
+		SingleNode node = new SingleNode();
+		node.setData(value);
+		if (head == null) {
+			node.setNext(null);
+			return node;
+		} else {
+			SingleNode temp = head.getHead();
+			while (temp.getNext() != null) {
+				temp = temp.getNext();
+			}
+			node.setNext(null);
+			temp.setNext(node);
+
+			return temp;
+		}
+	}
+	
+	public SingleNode reverseLikedList(SingleLinkedList head) {
+           SingleNode previous=null;
+           SingleNode current=head.getHead();
+           SingleNode next=null;
+           while(current!=null) {
+        	   next=current.getNext();
+        	   SingleNode currentnext=current.getNext();
+        	     currentnext=previous;
+        	     previous=current;
+        	     current=next;
+           }
+           return previous;
+	}
+
+	
+
 
 }
