@@ -66,7 +66,7 @@
    2. [LinkedList](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure/LinkedList)
         1. [SingleLinkedList](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/datastructure/LinkedList/SingleLinkedList.java)
    3. [Queue](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure/Queue)
-   4. [Stack]()
+   4. [Stack](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure/Stack)
    5. [Tree](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure/Tree/binaryTree)
 
 
