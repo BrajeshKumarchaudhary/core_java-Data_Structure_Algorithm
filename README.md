@@ -65,8 +65,9 @@
         3. [Jagged Array](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/datastructure/Arrays/JaggedArray.java	) 
    2. [LinkedList](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure/LinkedList)
         1. [SingleLinkedList](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/datastructure/LinkedList/SingleLinkedList.java)
-        
-   3. [Tree](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure/Tree/binaryTree)
+   3. [Queue](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure/Queue)
+   4. [Stack]()
+   5. [Tree](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/tree/master/src/com/datastructure/Tree/binaryTree)
 
 
 
