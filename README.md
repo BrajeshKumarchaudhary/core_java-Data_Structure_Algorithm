@@ -98,9 +98,9 @@
 ## Problems
 
 ## Array
-1. [Reverse the Array]()
-2. [Find the maximum and minimum element in an array]()
-3. [Find the "Kth" max and min element of an array ]()
+1. [Reverse the Array](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/problems/array/ReverseArray.java)
+2. [Find the maximum and minimum element in an array](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/problems/array/MinAndMaxInArray.java)
+3. [Find the "Kth" max and min element of an array ](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/problems/array/FindKthMinAndMax.java)
 
 
 ---------------
