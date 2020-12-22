@@ -7,7 +7,6 @@ import java.util.List;
 public class SortingObjectMember {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
        Man m0=new Man(20,"brajesh");
        Man m1=new Man(2,"brajesh");
        List<Man> m=new ArrayList<>();

@@ -63,6 +63,23 @@ public class Build123 {
 			}
 		}
 	}
+	/*
+	 * Compute the "height" of a tree -- the number of nodes along the longest
+	 * path from the root node down to the farthest leaf node.
+	 */
+	public int heightTree(TreeNode root) {
+		if (root == null) {
+			return 0;
+		} else {
+			int ldepth = maxDepth(root.left);
+			int rdepth = maxDepth(root.right);
+			if (ldepth > rdepth) {
+				return ldepth + 1;
+			} else {
+				return rdepth + 1;
+			}
+		}
+	}
 
 	/*
 	 * Given a non-empty binary search tree, return the minimum data value found in
