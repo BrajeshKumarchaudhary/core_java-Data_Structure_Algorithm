@@ -11,5 +11,8 @@ public class THread extends Thread {
 		// TODO Auto-generated method stub
 		THread t1=new THread();
 		t1.start();     
+	Runnable exec=()->{
+	};
+	new Thread(exec).start();
 	}
 }

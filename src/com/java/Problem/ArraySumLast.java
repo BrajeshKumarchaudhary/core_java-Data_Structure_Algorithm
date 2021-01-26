@@ -1,5 +1,7 @@
 package com.java.Problem;
 
+import java.util.stream.IntStream;
+
 public class ArraySumLast {
 
 	    public static void printLastSum(int a[])
@@ -21,6 +23,15 @@ public class ArraySumLast {
 	    		System.out.print(" "+a[k]);
 	    	}
 	    }
+	    
+	    public static void printLastSumMethod2(int arr[]) {
+	    	int sum=IntStream.of(arr).sum();
+	    	System.out.println();
+	    	for (int i = 1; i < arr.length; i++) {
+				System.out.print(" "+arr[i]);
+			}
+	    	System.out.println(" "+sum);
+	    }
 	
 	
 	
@@ -28,7 +39,8 @@ public class ArraySumLast {
 		// TODO Auto-generated method stub
 
 		int a[]= {1,2,3,4,5};
-		printLastSum(a);
+//		printLastSum(a);
+		printLastSumMethod2(a);
 		
 		
 	}

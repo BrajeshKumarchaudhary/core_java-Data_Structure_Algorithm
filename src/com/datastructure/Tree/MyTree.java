@@ -24,7 +24,7 @@ public class MyTree {
 		}
 		
 		inPreorder(root.left);
-		System.out.println(root.data); //ineorder
+		System.out.println(root.data); //inorder
 		inPreorder(root.right);
 	}
 	public  static void  postPreorder(Node root)
@@ -44,7 +44,7 @@ public class MyTree {
 		if(root==null)
 		{
 			return;
-		}
+		} 
 		Queue<Node> q=new java.util.LinkedList<Node>();
 		  q.add(root);
 		  while(!q.isEmpty())

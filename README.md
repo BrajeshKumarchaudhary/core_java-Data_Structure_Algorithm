@@ -102,6 +102,8 @@
 2. [Find the maximum and minimum element in an array](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/problems/array/MinAndMaxInArray.java)
 3. [Find the "Kth" max and min element of an array ](https://github.com/BrajeshKumarchaudhary/core_java-Data_Structure_Algorithm/blob/master/src/com/problems/array/FindKthMinAndMax.java)
 
+4. [Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo]() 
+5. [Move all the negative elements to one side of the array ]()
 
 ---------------
 

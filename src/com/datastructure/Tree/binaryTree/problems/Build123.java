@@ -214,7 +214,7 @@ public class Build123 {
 	*/
 	public TreeNode mirror(TreeNode rootNode) {
 		if(rootNode==null) {
-			
+			return null;
 		}else {
 			TreeNode temp=rootNode;
 			//do on the subtree
