@@ -17,7 +17,7 @@ public class BalanceParenthsis {
 		keyMap.put('[', ']');
 		keyMap.put('(', ')');
 		Stack<Character> stack = new Stack<>();
-		char arr[]=str.toCharArray();
+		char[] arr=str.toCharArray();
 		boolean flag = true;
 		for (int i = 0; i < arr.length; i++) {
 			if (keyMap.containsKey(arr[i])) {
