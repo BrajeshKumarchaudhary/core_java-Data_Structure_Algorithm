@@ -9,6 +9,7 @@ public class MultiThread implements  Runnable {
 		// TODO Auto-generated method stub
 		MultiThread t1=new MultiThread();
 		Thread t2=new Thread(t1);
+		t2.notify();
 		t2.start();
 	}
 

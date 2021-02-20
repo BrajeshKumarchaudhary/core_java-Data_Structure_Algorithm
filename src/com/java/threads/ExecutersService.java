@@ -22,7 +22,7 @@ public class ExecutersService {
 //		  service.shutdown();
 		  
 		  
-		  //Future keyword is used to hold the returning value.
+		  //Future Interface is used to hold the returning value.
 		  
 		  Future<String> value=service.submit(new PrintWithReturn("Yes I am going"));
 		  System.out.println(value.get());
