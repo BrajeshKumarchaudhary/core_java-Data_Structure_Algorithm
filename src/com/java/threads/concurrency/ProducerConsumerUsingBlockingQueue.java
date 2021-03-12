@@ -4,6 +4,10 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
 
+/**
+ * @author brajesh
+ *
+ */
 public class ProducerConsumerUsingBlockingQueue {
 
 	public static void main(String[] args) {
@@ -32,13 +36,11 @@ class Producer extends Thread{
 			try {
 				Thread.sleep(1000);
 			} catch (InterruptedException e1) {
-				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
 			try {
 				sharedQueue.put(i);
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}
@@ -58,7 +60,6 @@ class Consumer extends Thread{
 			try {
 				System.out.println(getName()+" consumed"+sharedQueue.take());
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}
