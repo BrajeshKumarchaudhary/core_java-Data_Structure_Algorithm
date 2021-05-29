@@ -11,6 +11,7 @@ public class ExecutersService {
 	public static void main(String[] args) throws InterruptedException, ExecutionException {
 
 		  ExecutorService service=Executors.newFixedThreadPool(10);
+		  Executors.newSingleThreadExecutor();
 //		  service.execute(new PrintSTMT("Yes Performing task--"));
 //		  service.execute(new PrintSTMT("Yes Performing task--"));
 //		  Runnable job=()->{

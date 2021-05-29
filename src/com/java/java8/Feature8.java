@@ -46,7 +46,7 @@ public class Feature8 {
        //sorted
 		//list.stream().sorted().forEach(s->System.out.println(s));
 		//map
-		//list.stream().map(s->s.toUpperCase()).forEach(s->System.out.println(s));
+		list.stream().map(s->s.toUpperCase()).forEach(s->System.out.println(s));
 		
 		int max = 1000000;
 		List<String> values = new ArrayList<>(max);

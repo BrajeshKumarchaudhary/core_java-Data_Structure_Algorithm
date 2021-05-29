@@ -16,7 +16,7 @@ public class LamdaExpression {
 	public static void main(String[] args) {
 		List<String> names=Arrays.asList("Brajesh","Ankit","Maneesh","Dheeraj","Govind");
   		methodSort1(names);
-
+         
 	}
     @SuppressWarnings("unchecked")
 	public static void methodSort1(List list)

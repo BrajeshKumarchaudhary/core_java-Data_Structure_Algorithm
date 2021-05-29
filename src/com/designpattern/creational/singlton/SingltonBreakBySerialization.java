@@ -29,9 +29,7 @@ public class SingltonBreakBySerialization {
 		//to overCome this Problem
 		//IN Singlton class ovverride readResolve() and return same instance.
 		
-		
-		
-		
+
 		
 		
 		

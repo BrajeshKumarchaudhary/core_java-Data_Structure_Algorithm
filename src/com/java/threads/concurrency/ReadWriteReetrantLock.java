@@ -2,7 +2,6 @@ package com.java.threads.concurrency;
 
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
-import sun.awt.windows.ThemeReader;
 
 public class ReadWriteReetrantLock {
 

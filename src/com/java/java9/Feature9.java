@@ -20,8 +20,6 @@ public class Feature9 {
      *Miscellaneous Java 9 Features
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 	}
 
 }
