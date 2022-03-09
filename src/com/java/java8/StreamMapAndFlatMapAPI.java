@@ -34,7 +34,7 @@ public class StreamMapAndFlatMapAPI {
 	}
 	
 	public static void main(String[] args) {
-		mapMethod(Arrays.asList(2, 3, 4, 5));
+		//mapMethod(Arrays.asList(2, 3, 4, 5));
 		flatMap(getManList());
 	}
 

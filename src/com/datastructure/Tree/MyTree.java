@@ -8,6 +8,7 @@ public class MyTree {
 
 	public  static void  printPreorder(Node root)
 	{
+		//part of DFS
 		if(root==null)
 		{
 			return;
@@ -18,6 +19,7 @@ public class MyTree {
 	}
 	public  static void  inPreorder(Node root)
 	{
+		//part of DFS
 		if(root==null)
 		{
 			return;
@@ -29,6 +31,7 @@ public class MyTree {
 	}
 	public  static void  postPreorder(Node root)
 	{
+		//part of DFS
 		if(root==null)
 		{
 			return;
@@ -41,6 +44,7 @@ public class MyTree {
 	
 	public  static void levelOrderTraversal(Node root)
 	{
+		//BFS
 		if(root==null)
 		{
 			return;

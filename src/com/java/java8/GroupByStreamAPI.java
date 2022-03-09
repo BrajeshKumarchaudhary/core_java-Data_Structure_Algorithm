@@ -22,8 +22,8 @@ public class GroupByStreamAPI {
 	}
 
 	public static void main(String[] args) {
-//		printGroupBy(Arrays.asList("Brajesh","Brajesh","Suresh","Suresh","Dheeraj"));
-		printByPartionBy(Arrays.asList("Brajesh", "Brajesh", "Suresh", "Suresh", "Dheeraj"));
+		printGroupBy(Arrays.asList("Brajesh","Brajesh","Suresh","Suresh","Dheeraj"));
+	//	printByPartionBy(Arrays.asList("Brajesh", "Brajesh", "Suresh", "Suresh", "Dheeraj"));
 	}
 
 }

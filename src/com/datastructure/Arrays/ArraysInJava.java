@@ -1,5 +1,8 @@
 package com.datastructure.Arrays;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /*
  * Array in java
  * One Dimensional array
@@ -32,7 +35,6 @@ public class ArraysInJava {
 		for (int i : a11) {
 			System.out.println(a11[1]);
 		}
-
 		// Arrays of Of objects
 		Student list[] = new Student[20];
 		list[0] = new Student("Brajesh", 20);

@@ -23,13 +23,13 @@ public class Feature8 {
 		// TODO Auto-generated method stub
 //		remove_duplicate();
 //		SequentialVSParallelStream();
-//		mapWithStream();
-		Clock cl=Clock.systemDefaultZone();
-		long millls=cl.millis();
-		System.out.println(millls);
-		Instant instant = cl.instant();
-		Date legacyDate = Date.from(instant);   // legacy java.util.Date
-		System.out.println(legacyDate);
+		mapWithStream();
+//		Clock cl=Clock.systemDefaultZone();
+//		long millls=cl.millis();
+//		System.out.println(millls);
+//		Instant instant = cl.instant();
+//		Date legacyDate = Date.from(instant);   // legacy java.util.Date
+//		System.out.println(legacyDate);
 	}
 
 	

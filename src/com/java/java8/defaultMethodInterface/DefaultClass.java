@@ -16,6 +16,11 @@ public class DefaultClass {
 				System.out.println("Square is--"+(b*b));
 				
 			}
+			@Override
+			public void calculateSquareRoot(double b) {
+				System.out.println("Square is--"+(b*b));
+				
+			}
 		};
      obj.CalculateSquare(200);
      obj.calculateSquareRoot(400);

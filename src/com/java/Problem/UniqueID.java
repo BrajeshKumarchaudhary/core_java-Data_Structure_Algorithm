@@ -1,5 +1,6 @@
 package com.java.Problem;
 
+import java.time.Instant;
 import java.util.Calendar;
 import java.util.UUID;
 
@@ -22,6 +23,8 @@ public class UniqueID {
 	        int uid=str.hashCode();
 	        String filterStr=""+uid;
 	        str=filterStr.replaceAll("-", "");
+	        Instant ins=Instant.now().plusMillis(200);
+	        
 	        return str;
 	    }
 	

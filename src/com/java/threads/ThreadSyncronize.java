@@ -34,6 +34,17 @@ public class ThreadSyncronize {
 							}
 		}
 	});
+		
+		Thread t3=new Thread(()->{
+		 try {
+			p.printE(100, 200);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}	
+		});
+		
+		
+		
 		t1.start();
 		t2.start();
 
